@@ -1,0 +1,8 @@
+,Feature,Importance
+1,dayofweek,0.19539437
+5,lag_7d,0.1735907
+3,month,0.16147093
+6,ma_7d,0.1435771
+0,hour,0.12997179
+2,dayofmonth,0.103964485
+4,lag_1d,0.092030615
